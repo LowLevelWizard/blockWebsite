@@ -1,0 +1,25 @@
+body {
+    /*background-color: white;*/
+    background-color: lightgrey;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: 50;
+}
+h1 {
+    color: black;
+}
+
+h4 {
+    color: black;
+    background-color: rgba(green, .3);
+}
+
+p {
+    color: black;
+    margin: 10px;
+    background-color: rgba(green, .3);
+}
+
+#WelcomeMessage   {
+    text-align: center;
+}
